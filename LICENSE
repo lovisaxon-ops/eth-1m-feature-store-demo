@@ -1,0 +1,50 @@
+EVOLVE QUANT SOURCE-AVAILABLE EVALUATION LICENSE
+Version 1.0
+
+Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+
+This repository is made publicly available for portfolio review, technical
+evaluation, and educational demonstration.
+
+Nothing in this License limits the rights granted to GitHub or GitHub users
+under GitHub's Terms of Service for hosting, viewing, and forking this
+public repository through GitHub's normal functionality.
+
+Subject to this License, you may:
+
+1. View, clone, and fork this repository through GitHub.
+2. Run an unmodified copy of the demo locally for personal evaluation or
+   educational review.
+3. Quote small excerpts with attribution when discussing or reviewing the
+   project.
+
+You may not, without prior written permission from Evolve Quant LLC:
+
+1. Use the software, documentation, data, or derived outputs for commercial
+   purposes.
+2. Sell, sublicense, redistribute, repackage, or include this repository in a
+   paid product or service.
+3. Deploy the software in production, operate it as a hosted service, or use it
+   to provide trading, analytics, signal, data, or consulting services.
+4. Remove or alter copyright, license, or attribution notices.
+5. Use the names Evolve Quant, Evolve Quant LLC, or related marks to imply
+   endorsement, partnership, or sponsorship.
+6. Use this repository or its contents to train, fine-tune, or evaluate machine
+   learning systems for commercial code generation or competitive analysis.
+
+The included synthetic sample data and generated plot are covered by this same
+License. They are provided only to demonstrate the data pipeline.
+
+This repository does not provide financial, investment, trading, legal, tax, or
+professional advice. No performance, profitability, availability, or fitness for
+any purpose is promised.
+
+THE SOFTWARE, DOCUMENTATION, DATA, AND OUTPUTS ARE PROVIDED "AS IS" AND WITHOUT
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND
+NONINFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, EVOLVE QUANT LLC SHALL
+NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR RELATED
+TO THIS REPOSITORY OR ITS USE.
+
+For commercial licensing, redistribution, production use, or a private/pro
+version, contact Evolve Quant LLC.

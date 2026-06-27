@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+# Source-available for evaluation under the LICENSE file.
 """Refresh derived feature columns from an existing OHLCV feature table."""
 from __future__ import annotations
 

@@ -95,6 +95,15 @@ The feature store includes base OHLCV fields plus rolling features for periods
 
 See [docs/schema.md](docs/schema.md) for the table shape.
 
+## License
+
+Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+
+This repository is source-available for portfolio review and local evaluation
+under the [Evolve Quant Source-Available Evaluation License](LICENSE). It is not
+open source. Commercial use, redistribution, production deployment, hosted use,
+or paid-service use requires prior written permission from Evolve Quant LLC.
+
 ## Public Demo Scope
 
 This repository intentionally excludes:

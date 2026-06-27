@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+# Source-available for evaluation under the LICENSE file.
 """Generate a small public plot from the sample CSV."""
 from __future__ import annotations
 

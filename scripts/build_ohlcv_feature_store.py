@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+# Source-available for evaluation under the LICENSE file.
 """Build a public-safe 1-minute OHLCV feature store from CSV files."""
 from __future__ import annotations
 

@@ -1,8 +1,10 @@
 # Notice
 
-Copyright (c) Evolve Quant LLC.
+Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
 
-This repository is a public portfolio/demo package. No open-source license is
-granted yet. You may view the code for evaluation. Contact Evolve Quant LLC for
-commercial use, redistribution, or a production license.
+This repository is a public portfolio/demo package released under the Evolve
+Quant Source-Available Evaluation License. See [LICENSE](LICENSE).
 
+This is not an open-source license. Commercial use, redistribution, production
+use, hosted use, or paid-service use requires prior written permission from
+Evolve Quant LLC.

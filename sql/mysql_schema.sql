@@ -1,3 +1,5 @@
+-- Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+-- Source-available for evaluation under the LICENSE file.
 CREATE DATABASE IF NOT EXISTS eth_research
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;

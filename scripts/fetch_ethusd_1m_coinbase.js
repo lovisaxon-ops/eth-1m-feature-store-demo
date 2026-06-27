@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+// Source-available for evaluation under the LICENSE file.
 const axios = require("axios");
 const fs = require("fs");
 const path = require("path");

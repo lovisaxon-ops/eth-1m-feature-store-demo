@@ -2,6 +2,7 @@
   "name": "eth-1m-feature-store-demo",
   "version": "0.1.0",
   "private": true,
+  "license": "SEE LICENSE IN LICENSE",
   "description": "Public demo of an ETHUSD 1-minute data pipeline and technical feature store.",
   "type": "commonjs",
   "scripts": {

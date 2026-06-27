@@ -1,3 +1,5 @@
+-- Copyright (c) 2026 Evolve Quant LLC. All rights reserved.
+-- Source-available for evaluation under the LICENSE file.
 CREATE TABLE IF NOT EXISTS ohlcv_features_1m (
   timestamp TEXT NOT NULL PRIMARY KEY,
   unix REAL,

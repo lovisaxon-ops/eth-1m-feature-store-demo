@@ -24,7 +24,9 @@ scripts/plot_sample_features.py       Demo plot generator
 sql/mysql_schema.sql                  Sanitized MySQL schema
 sql/sqlite_schema.sql                 Sanitized SQLite schema
 data/sample_ethusd_1m.csv             Small synthetic sample dataset
-docs/                                Methodology, schema, publishing checklist
+docs/backtest_methodology.md          Public methodology notes
+docs/schema.md                        Feature-store schema overview
+docs/publish_checklist.md             Public-release checklist
 ```
 
 ## Quickstart
@@ -32,7 +34,7 @@ docs/                                Methodology, schema, publishing checklist
 From a fresh checkout:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/eth-1m-feature-store-demo.git
+git clone https://github.com/lovisaxon-ops/eth-1m-feature-store-demo.git
 cd eth-1m-feature-store-demo
 cp .env.example .env
 ```
@@ -118,4 +120,3 @@ This repository intentionally excludes:
 
 For production usage, package this as a private/pro version with installer
 scripts, data validation checks, scheduled updates, and support.
-
